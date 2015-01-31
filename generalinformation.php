@@ -29,7 +29,7 @@
 					</ul>
 			</div>
 			<div class = "columns small-12 medium-6">
-				<img src = "./img/Sign.jpg">
+				<img src = "./img/Sign.JPG">
 			</div>
 		</div>
 		<div class = "row">
