@@ -37,7 +37,7 @@ ul {
 	text-align: center;
 }
 
-.centeredText {
+.notCentered {
 	text-align: left;
 }
 
@@ -47,4 +47,8 @@ ul {
 
 .row {
 	margin-top: 1.5rem;
+}
+
+.bottomImage {
+	margin-bottom: 3rem;
 }

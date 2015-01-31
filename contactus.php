@@ -76,7 +76,7 @@
 			</form>
 			</div>
 				<div class = "columns small-6">
-					<img src="./img/Brochure1.jpg"/>
+					<img class = "bottomImage" src="./img/Brochure1.jpg"/>
 				</div>
 		</div>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
