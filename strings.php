@@ -37,7 +37,7 @@
                 "content" => "We are delighted to be the recipients of grants from the Cataraqui-Kingston Rotary Club, and the Queen's MCRC Fines Revenue Allocation Committee. With the extra money being spent on food this year, their contributions are most welcome!"
         ),
                 array(,
-                "header" => "Regina Rosen Food First Fund"
+                "header" => "Regina Rosen Food First Fund",
                 "content" => "We were delighted and thankful to be chosen as a recipient of a grant from this new fund. We were chosen by Sandy Singers because 'This meal program ... has been in operation for many years now and delivers a great service on a shoe-string budget. They are often overlooked with the emergence of newer programmes with higher profiles, yet they have been consistent in providing quality meals to our homeless and low-income neighbours, regardless of the attention'. Thank you for those kind words, and thank you, Regina Rosen, for creating the Fund. The money will be well used."
         ),
                 array(
