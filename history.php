@@ -49,6 +49,8 @@
 				Lunch By George also receives food donations from church members, restaurants, community groups and Partners in Mission Food Bank. Because our numbers fluctuate, there are times when the program becomes desperately short of certain foods. If you see or hear of a request for tinned fruit, juice, sugar or coffee, it is because the need is critical at that time!
 				</p>
 			</div>
+			<div class = "columns small-12">
+				<img src="./img/door.jpg"/>
 		</div>
 		
 

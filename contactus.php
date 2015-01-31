@@ -25,7 +25,7 @@
 					<h1>Contact Us</h1>
 				</div>
 			</div>
-			<form>
+			<form method="post" action="email.php">
 				<div class="row">
 					<div class="large-12 columns">
 						<label>First and Last Name
