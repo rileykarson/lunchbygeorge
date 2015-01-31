@@ -19,7 +19,7 @@
 			include "navbar.html"
 		?>
 		
-		<div class="row">
+		<div class="row centeredText">
 			<div class="columns small-12 medium-6">
 				<h2> Sponsor Lunch by George</h2>
 
