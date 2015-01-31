@@ -15,9 +15,9 @@
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
 	<body>
-		<nav class = "top-bar">
-			
-		</nav>
+	<?php
+		include "navbar.html"
+	?>
 		<div class= "row">
 			<div "columns small-12">
 				<img src = "./img/header.jpg" alt="Lunch By George">
