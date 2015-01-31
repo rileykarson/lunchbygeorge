@@ -20,7 +20,7 @@
 		?>
 		<div class= "row">
 			<div class = "columns small-12">
-				<img src = "./img/header.jpg" alt="Lunch By George">
+				<img src = "./img/header.svg" alt="Lunch By George">
 			</div>
 		</div>
 		<?php
