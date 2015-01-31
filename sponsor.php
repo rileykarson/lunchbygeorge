@@ -20,11 +20,7 @@
 		?>
 		
 		<div class="row centeredText">
-<<<<<<< HEAD
 			<div class="columns small-12">
-=======
-			<div class="columns small-12 medium-6">
->>>>>>> 5d0834c94e039ddc946d2b105d33c396cf025b26
 				<h2> Sponsor Lunch by George</h2>
 				<h3> Support the Kingston community!</h3>
 					<ul>
