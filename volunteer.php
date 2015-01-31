@@ -12,6 +12,8 @@
 		<link href = "//cdn.foundation5.zurb.com/foundation.css" rel="stylesheet">
 		<link href = "css/index.css" rel="stylesheet">
 		<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
 	<body>
@@ -31,18 +33,29 @@
 					<li>Help us grow our vegetables in our very own garden</li>
 					<li>Get involved in administrative functioning</li>
 				</ul>
-
-				<img src="img/meals.png"/>
-				<img src="img/garden.jpg"/>
-				<img src="img/meals2.png"/>
+				
 
 				<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
 			</div>
 		</div>
-
+		<div class = "row">
+			<div class = "columns small-12">
+				<div class="your-class">
+					<div><img src="img/meals.png"/></div>
+					<div><img src="img/garden.jpg"/></div>
+					<div><img src="img/meals2.png"/></div>
+				</div>
+			</div>
+		</div>
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
 		<script src="js/index.js"></script>
+		<script type="text/javascript" src="slick/slick.min.js"></script>
+		<script type="text/javascript">
+		    $(document).ready(function(){
+		      $('.your-class').slick();
+		    });
+		  </script>
 	</body>
 </html>
