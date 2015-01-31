@@ -45,6 +45,7 @@
 					</p>
 				</div>
 			<div class = "columns small-6">
+				<div class = "whitespace"></div>
 				<img src="./img/door.jpg"/>
 			</div>
 		</div>

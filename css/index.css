@@ -43,6 +43,12 @@ ul {
 
 .headerImage{
 	background-color: #005AAf;
+	margin: 10rem;
+	width: 60rem;
+}
+
+.headerDiv{
+	background-color: #005AAf;
 }
 
 .row {
@@ -51,4 +57,8 @@ ul {
 
 .bottomImage {
 	margin-bottom: 3rem;
+}
+
+.whitespace {
+	margin-top: 5rem;
 }

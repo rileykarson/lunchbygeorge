@@ -8,19 +8,48 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>Lunch By George</title>
 		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="width=device-width<li> initial-scale=1">
 		<link href = "//cdn.foundation5.zurb.com/foundation.css" rel="stylesheet">
 		<link href = "css/index.css" rel="stylesheet">
 		<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
 		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
-		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
 	<body>
 		<?php
 			include "navbar.html"
 		?>
-		<div class = "row">
+		<div class = "row centeredText">
+			<div class = "columns small-12">
+				<h2>Special 2012 Thanks:</h2>
+				<p>We are pleased to announce that we have recently added two major donors to our ranks: The Rotary Club of Cataraqui-Kingston and the Newcomers Club of Kingston have both made us recipients of donations, and we sincerely thank them for their help.
+				We also wish to those who contribute food on an ongoing basis:</p>
+				<ul>
+				<li>Beethoven Run</li>
+				<li>Canadian Tire Cataraqui</li>
+				<li>Chit Chat Café</li>
+				<li>Christ Church Belleville</li>
+				<li>Cora’s</li>
+				<li>Food Not Bombs</li>
+				<li>Frontenac Mental Health</li>
+				<li>Holy Cross HS</li>
+				<li>Kingston Curling Club</li>
+				<li>KFC</li>
+				<li>Loving Spoonful</li>
+				<li>Partners in Mission Food Bank</li>
+				<li>Queen's Health Sciences</li>
+				<li>Raging Bull</li>
+				<li>Ruffled Feather</li>
+				<li>St. George’s</li>
+				<li>St. Luke's</li>
+				<li>St. Mary's Newburgh</li>
+				<li>St. Peter's</li>
+				<li>St. Thomas</li>
+				<li>The Shriners Club</li>
+				<li>Starbucks and Taoist Tai Chi</li>
+				</ul>
+			</div>
 			<div class = "columns small-12">
 				<div class="your-class">
 					<div><img class = "carouselImage" src="img/meals.png"/></div>
@@ -31,22 +60,11 @@
 					<div><img class = "carouselImage" src="img/photo4.png"/></div>
 					<div><img class = "carouselImage" src="img/photo5.png"/></div>
 				</div>
+				<div class="whitespace"></div>
 			</div>
 		</div>
-		<div class = "row centeredText">
-			<div class = "columns small-12">
-				<h1>Volunteer!</h1>
-			</div>
-			<div class = "columns small-12">
-				<p> Explore different volunteering opportunities to help the Kingston community </p>
-				<ul>
-					<li>Serve meals to the Kingston community</li>
-					<li>Help us grow our vegetables in our very own garden</li>
-					<li>Get involved in administrative functioning</li>
-				</ul>
-				<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
-			</div>
-		</div>
+
+
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
