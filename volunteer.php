@@ -18,21 +18,27 @@
 		<?php
 			include "navbar.html"
 		?>
-		
-		<h1>Volunteer!</h1>
+		<div class = "row">
+			<div class = "columns small-12">
+				<h1>Volunteer!</h1>
+			</div>
+		</div>
+		<div class = "row">
+			<div class = "columns small-12">
+				<p> Explore different volunteering opportunities to help the Kingston community </p>
+				<ul>
+					<li>Serve meals to the Kingston community</li>
+					<li>Help us grow our vegetables in our very own garden</li>
+					<li>Get involved in administrative functioning</li>
+				</ul>
 
-		<p> Explore different volunteering opportunities to help the Kingston community </p>
-		<ul>
-			<li>Serve meals to the Kingston community</li>
-			<li>Help us grow our vegetables in our very own garden</li>
-			<li>Get involved in administrative functioning</li>
-		</ul>
+				<img src="img/meals.png"/>
+				<img src="img/garden.jpg"/>
+				<img src="img/meals2.png"/>
 
-		<img src="img/meals.png"/>
-		<img src="img/garden.jpg"/>
-		<img src="img/meals2.png"/>
-
-		<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
+				<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
+			</div>
+		</div>
 
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
