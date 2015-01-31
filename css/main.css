@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Sans-Serif;
+}
+
+p {
+    margin: 1rem;
+}
+
+.imageHolder {
+    margin: 1rem;
+}
