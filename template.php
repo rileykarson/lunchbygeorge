@@ -18,34 +18,9 @@
 		<?php
 			include "navbar.html"
 		?>
-		<div class= "row">
-			<div class = "columns small-12">
-				<img src = "./img/header.jpg" alt="Lunch By George">
-			</div>
-		</div>
-		<?php
-			include "strings.php";
-			foreach ($array as $value) {
-				$header = $value['header'];
-				$content = $value['content'];
-				echo "  <div class = 'row'>
-							<div class = 'panel columns small-12'>
-								<div class = 'row'>
-									<div class = 'columns small-12'>
-										<h1>$header</h1>
-									</div>
-								</div>
-								<div class='row'>
-									<div class = 'columns small-10 small-centered'>
-										<p>
-											$content
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>";
-			}
-		?>
+		
+		
+
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
