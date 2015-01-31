@@ -19,7 +19,7 @@
 			include "navbar.html"
 		?>
 		<div class= "headerImage centeredText">
-				<img src = "./img/riley1.jpg" alt="Lunch By George">
+				<img src = "./img/header.svg" alt="Lunch By George">
 		</div>
 		<?php
 			include "strings.php";
