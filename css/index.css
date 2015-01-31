@@ -36,3 +36,11 @@ ul {
 .centeredText {
 	text-align: center;
 }
+
+.headerImage{
+	background-color: #005AAf;
+}
+
+.row {
+	margin-top: 1.5rem;
+}

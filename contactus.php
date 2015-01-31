@@ -19,64 +19,66 @@
 			include "navbar.html"
 		?>
 		<div class = "row">
-			<div class = "columns small-12">
-				<h1>Contact Us</h1>
-			</div>
-		</div>
-		<form>
-			<div class="row">
-				<div class="large-12 columns">
-					<label>First and Last Name
-						<input type="text" placeholder="Required" />
-					</label>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-4 columns">
-					<label>Email Address
-						<input type="text" placeholder="Required" />
-					</label>
-				</div>
-				<div class="large-4 columns">
-					<label>Phone
-						<input type="tel" placeholder="Required" />
-					</label>
-				</div>
-			</div>
+		<div class = "columns small-6">
 			<div class = "row">
 				<div class = "columns small-12">
+					<h1>Contact Us</h1>
+				</div>
+			</div>
+			<form>
+				<div class="row">
+					<div class="large-12 columns">
+						<label>First and Last Name
+							<input type="text" placeholder="Required" />
+						</label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="large-6 columns">
+						<label>Email Address
+							<input type="text" placeholder="Required" />
+						</label>
+					</div>
+					<div class="large-6 columns">
+						<label>Phone
+							<input type="tel" placeholder="Required" />
+						</label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="large-12 columns">
+						<label>Select your inquiry
+							<select>
+								<option value="Select an inquiry">Select an inquiry</option>
+								<option value="sponsorship" >Sponsorship</option>
+								<option value="volunteering">Volunteering</option>
+								<option value="donate">Donate</option>
+								<option value="other">Other</option>
+							</select>
+						</label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="large-6 columns">
+						<label>Are you already involved with "Lunch with George"?</label>
+						<input type="radio" name="lunchWithGeorge" value="Yes" id="involvedYes"><label for="Yes">Yes</label>
+						<input type="radio" name="lunchwithGeorge" value="No" id="involvedNo"><label for="No">No</label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="large-12 columns">
+						<label>Comments on your inquiry
+							<br>
+							<textarea placeholder="Enter your comments here"></textarea> </br>
+						</label>
+					</div>
+				</div>
+			</form>
+			</div>
+				<div class = "columns small-6">
 					<img src="./img/Brochure1.jpg"/>
 				</div>
-			</div>
-			<div class="row">
-				<div class="large-12 columns">
-					<label>Select your inquiry
-						<select>
-							<option value="Select an inquiry">Select an inquiry</option>
-							<option value="sponsorship" >Sponsorship</option>
-							<option value="volunteering">Volunteering</option>
-							<option value="donate">Donate</option>
-							<option value="other">Other</option>
-						</select>
-					</label>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-6 columns">
-					<label>Are you already involved with "Lunch with George"?</label>
-					<input type="radio" name="lunchWithGeorge" value="Yes" id="involvedYes"><label for="Yes">Yes</label>
-					<input type="radio" name="lunchwithGeorge" value="No" id="involvedNo"><label for="No">No</label>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-12 columns">
-					<label>Comments on your inquiry
-						<br>
-						<textarea placeholder="Enter your comments here"></textarea> </br>
-					</label>
-				</div>
-			</div>
-		</form>
+		</div>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>

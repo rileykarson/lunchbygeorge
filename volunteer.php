@@ -25,7 +25,11 @@
 				<div class="your-class">
 					<div><img class = "carouselImage" src="img/meals.png"/></div>
 					<div><img class = "carouselImage" src="img/garden.jpg"/></div>
-					<div><img class = "carouselImage" src="img/meals2.png"/></div>
+					<div><img class = "carouselImage" src="img/photo1.png"/></div>
+					<div><img class = "carouselImage" src="img/photo2.png"/></div>
+					<div><img class = "carouselImage" src="img/photo3.png"/></div>
+					<div><img class = "carouselImage" src="img/photo4.png"/></div>
+					<div><img class = "carouselImage" src="img/photo5.png"/></div>
 				</div>
 			</div>
 		</div>
