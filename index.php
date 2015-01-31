@@ -29,7 +29,7 @@
 				$header = $value['header'];
 				$content = $value['content'];
 				echo "  <div class = 'row'>
-							<div class = 'panel columns small-12'>
+							<div class = 'columns small-12'>
 								<div class = 'row'>
 									<div class = 'columns small-12'>
 										<h1>$header</h1>
