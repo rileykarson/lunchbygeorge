@@ -52,13 +52,15 @@
 			</div>
 			<div class = "columns small-12">
 				<div class="your-class">
-					<div><img class = "carouselImage" src="img/meals.png"/></div>
-					<div><img class = "carouselImage" src="img/garden.jpg"/></div>
-					<div><img class = "carouselImage" src="img/photo1.png"/></div>
-					<div><img class = "carouselImage" src="img/photo2.png"/></div>
-					<div><img class = "carouselImage" src="img/photo3.png"/></div>
-					<div><img class = "carouselImage" src="img/photo4.png"/></div>
-					<div><img class = "carouselImage" src="img/photo5.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor1.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor2.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor3.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor4.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor5.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor6.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor7.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor8.png"/></div>
+					<div><img class = "carouselImage" src="img/sponsor9.png"/></div>
 				</div>
 				<div class="whitespace"></div>
 			</div>
