@@ -17,12 +17,7 @@
 	<body>
 		<?php
 			include "navbar.html"
-			mail('leonard.bonfils@queensu.ca', $_POST['Form submission'], $_POST['
-
-		    	First and Last Name: 
-
-
-		    	']);
+			mail('leonard.bonfils@queensu.ca', $_POST['name'], $_POST['email'], $_POST['number'],$_POST['inquiry'],$_POST['lunchWithGeorge'],$_POST['comments']);
 		?>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

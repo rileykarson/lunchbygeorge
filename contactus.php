@@ -29,26 +29,26 @@
 				<div class="row">
 					<div class="large-12 columns">
 						<label>First and Last Name
-							<input type="text" placeholder="Required" />
+							<input type="text" placeholder="Required" name="name" />
 						</label>
 					</div>
 				</div>
 				<div class="row">
 					<div class="large-6 columns">
 						<label>Email Address
-							<input type="text" placeholder="Required" />
+							<input type="text" placeholder="Required" name="email" />
 						</label>
 					</div>
 					<div class="large-6 columns">
 						<label>Phone
-							<input type="tel" placeholder="Required" />
+							<input type="tel" placeholder="Required" name="number"/>
 						</label>
 					</div>
 				</div>
 				<div class="row">
 					<div class="large-12 columns">
 						<label>Select your inquiry
-							<select>
+							<select name="inquiry">
 								<option value="Select an inquiry">Select an inquiry</option>
 								<option value="sponsorship" >Sponsorship</option>
 								<option value="volunteering">Volunteering</option>
@@ -69,7 +69,7 @@
 					<div class="large-12 columns">
 						<label>Comments on your inquiry
 							<br>
-							<textarea placeholder="Enter your comments here"></textarea> </br>
+							<textarea placeholder="Enter your comments here" name="comments"></textarea> </br>
 						</label>
 					</div>
 				</div>
