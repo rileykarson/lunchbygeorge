@@ -13,7 +13,7 @@ ul {
 }
 
 .audit {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 
 .imageHolder {
@@ -35,6 +35,10 @@ ul {
 
 .centeredText {
 	text-align: center;
+}
+
+.centeredText {
+	text-align: left;
 }
 
 .headerImage{
