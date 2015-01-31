@@ -21,7 +21,7 @@
 		<div class = "row">
 			<h1>Finances</h1>
 			<h2>Financial Statements</h2>
-				<p>2013 <a href="/web/viewer.html?file=%2F2013statement.pdf"> Preview </a> <a href="./2013statement.pdf"> Download</a></p>
+				<p>2013 <a href="/web/viewer.html?file=%2F2013statement.pdf" class="button"> Preview </a> <a href="./2013statement.pdf"> Download</a></p>
 			<h2>Audits</h2>
 			<p> Audit 1 <a href="/web/viewer.html?file=%2Faudit1.pdf" class="button">  Preview </a> <a href="./audit1.pdf" class="button"> Download </a> </p>
 			<p> Audit 2 <a href="/web/viewer.html?file=%2Faudit2.pdf" class="button">  Preview </a> <a href="./audit2.pdf" class="button"> Download </a> </p>
