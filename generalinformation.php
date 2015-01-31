@@ -29,7 +29,7 @@
 					</ul>
 			</div>
 			<div class = "columns small-12 medium-6">
-				<img src = "./img/Sign.JPG">
+				<img src = "./img/Sign.jpg">
 			</div>
 		</div>
 		<div class = "row">
@@ -57,7 +57,7 @@
 		</div>
 		<div class = "row">
 			<div class = "columns small-12 medium-6">
-				<img src = "./img/streetsign.jpg">
+				<img class = "bottomImage" src = "./img/streetsign.jpg">
 			</div>
 			<div class = "columns small-12 medium-6">
 				<h1>Where?</h1>

@@ -18,20 +18,20 @@
 		<?php
 			include "navbar.html"
 		?>
-		<div class = "row centeredText">
+		<div class = "row">
 			<div class = "columns small-10 small-centered">
-				<h1>Finances</h1>
-				<h2 class = "notCentered">Financial Statements</h2>
-					<p> <span class="audit"> 2013 </span> <a href="/web/viewer.html?file=%2F2013statement.pdf" class="button round small"> Preview </a> <a href="./2013statement.pdf" class="button round small"> Download</a></p>
-				<h2 class = "notCentered">Audits</h2>
-				<p> <span class="audit">Audit 1 </span> <a href="/web/viewer.html?file=%2Faudit1.pdf" class="round small button">  Preview </a> <a href="./audit1.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 2 </span> <a href="/web/viewer.html?file=%2Faudit2.pdf" class="round small button">  Preview </a> <a href="./audit2.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 3 </span> <a href="/web/viewer.html?file=%2Faudit3.pdf" class="round small button">  Preview </a> <a href="./audit3.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 4 </span> <a href="/web/viewer.html?file=%2Faudit4.pdf" class="round small button">  Preview </a> <a href="./audit4.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 5 </span> <a href="/web/viewer.html?file=%2Faudit5.pdf" class="round small button">  Preview </a> <a href="./audit5.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 6 </span> <a href="/web/viewer.html?file=%2Faudit6.pdf" class="round small button">  Preview </a> <a href="./audit6.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 7 </span> <a href="/web/viewer.html?file=%2Faudit7.pdf" class="round small button">  Preview </a> <a href="./audit7.pdf" class="button round small "> Download </a> </p>
-				<p> <span class="audit">Audit 8 </span> <a href="/web/viewer.html?file=%2Faudit8.pdf" class="round small button">  Preview </a> <a href="./audit8.pdf" class="button round small "> Download </a> </p>
+				<div class = "centeredText"><h1>Finances</h1></div>
+				<h2>Financial Statements</h2>
+					<p> <a href="./2013financialstatement.jpg" class="button round small"> Download</a> <span class="audit"> 2013 </span> </p>
+				<h2>Audits</h2>
+				<p> <a href="./audit1.pdf" class="button round small "> Download </a> <span class="audit">Audit 1 </span> </p>
+				<p> <a href="./audit2.pdf" class="button round small "> Download </a> <span class="audit">Audit 2 </span> </p>
+				<p> <a href="./audit3.pdf" class="button round small "> Download </a> <span class="audit">Audit 3 </span> </p>
+				<p> <a href="./audit4.pdf" class="button round small "> Download </a> <span class="audit">Audit 4 </span> </p>
+				<p> <a href="./audit5.pdf" class="button round small "> Download </a> <span class="audit">Audit 5 </span> </p>
+				<p> <a href="./audit6.pdf" class="button round small "> Download </a> <span class="audit">Audit 6 </span> </p>
+				<p> <a href="./audit7.pdf" class="button round small "> Download </a> <span class="audit">Audit 7 </span> </p>
+				<p> <a href="./audit8.pdf" class="button round small "> Download </a> <span class="audit">Audit 8 </span> </p>
 				</div>
 		</div>
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

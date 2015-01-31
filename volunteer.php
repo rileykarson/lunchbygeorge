@@ -37,8 +37,6 @@
 			<div class = "columns small-12">
 				<h1>Volunteer!</h1>
 			</div>
-		</div>
-		<div class = "row centeredText">
 			<div class = "columns small-12">
 				<p> Explore different volunteering opportunities to help the Kingston community </p>
 				<ul>
@@ -46,8 +44,6 @@
 					<li>Help us grow our vegetables in our very own garden</li>
 					<li>Get involved in administrative functioning</li>
 				</ul>
-				
-
 				<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
 			</div>
 		</div>

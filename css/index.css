@@ -37,14 +37,28 @@ ul {
 	text-align: center;
 }
 
-.centeredText {
+.notCentered {
 	text-align: left;
 }
 
 .headerImage{
 	background-color: #005AAf;
+	margin: 10rem;
+	width: 60rem;
+}
+
+.headerDiv{
+	background-color: #005AAf;
 }
 
 .row {
 	margin-top: 1.5rem;
+}
+
+.bottomImage {
+	margin-bottom: 3rem;
+}
+
+.whitespace {
+	margin-top: 5rem;
 }

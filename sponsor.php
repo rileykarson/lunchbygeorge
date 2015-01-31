@@ -19,21 +19,19 @@
 			include "navbar.html"
 		?>
 		
-		<div class="row">
+		<div class="row centeredText">
+<<<<<<< HEAD
+			<div class="columns small-12">
+=======
 			<div class="columns small-12 medium-6">
+>>>>>>> 5d0834c94e039ddc946d2b105d33c396cf025b26
 				<h2> Sponsor Lunch by George</h2>
-
 				<h3> Support the Kingston community!</h3>
-
 					<ul>
 						<li>Help us grow the vegetables we need for our meals</li>
 						<li>Contribute to our positive impact on the Kingston community</li>
 					</ul>
-
-				<h3> Our current sponsors</h3>
-
 				<img src="img/sponsors.png"/>
-
 				<p> To become a sponsor, <a href="./contactus.php">contact us</a>!
 			</div>
 		</div>

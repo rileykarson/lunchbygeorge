@@ -22,13 +22,9 @@
 			<div class = "columns small-12">
 				<h1>Other Useful Links</h1>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<h2>Shelters</h2>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<ul>
 					<li><a href = "http://www.dawnhouse.ca/">Dawn House Shelter for Women and Children</a></li>
@@ -38,25 +34,17 @@
 					<li><a href = "http://www.kingstonyouthshelter.com">Kingston Youth Shelter</a></li>
 				</ul>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<h2>Other Meal Programs</h2>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<ul>
 					<li><a href = "http://www.marthastable.ca/">Martha's Table</a></li>
 				</ul>
 			</div>
-		</div>	
-		<div class = "row">
 			<div class = "columns small-12">
 				<h2>Other Links</h2>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<ul>
 					<li><a href = "http://www.kchc.ca/">Kingston Community Health Centres</a></li>
