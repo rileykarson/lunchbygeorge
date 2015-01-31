@@ -19,18 +19,20 @@
 			include "navbar.html"
 		?>
 		<div class = "row">
-			<h1>Finances</h1>
-			<h2>Financial Statements</h2>
-				<p>2013 <a href="/web/viewer.html?file=%2F2013statement.pdf" class="button"> Preview </a> <a href="./2013statement.pdf" class="button"> Download</a></p>
-			<h2>Audits</h2>
-			<p> <span class="audit"> Audit 1 </span> <a href="/web/viewer.html?file=%2Faudit1.pdf" class="button">  Preview </a> <a href="./audit1.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 2 </span> <a href="/web/viewer.html?file=%2Faudit2.pdf" class="button">  Preview </a> <a href="./audit2.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 3 </span> <a href="/web/viewer.html?file=%2Faudit3.pdf" class="button">  Preview </a> <a href="./audit3.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 4 </span> <a href="/web/viewer.html?file=%2Faudit4.pdf" class="button">  Preview </a> <a href="./audit4.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 5 </span> <a href="/web/viewer.html?file=%2Faudit5.pdf" class="button">  Preview </a> <a href="./audit5.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 6 </span> <a href="/web/viewer.html?file=%2Faudit6.pdf" class="button">  Preview </a> <a href="./audit6.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 7 </span> <a href="/web/viewer.html?file=%2Faudit7.pdf" class="button">  Preview </a> <a href="./audit7.pdf" class="button"> Download </a> </p>
-			<p> <span class="audit"> Audit 8 </span> <a href="/web/viewer.html?file=%2Faudit8.pdf" class="button">  Preview </a> <a href="./audit8.pdf" class="button"> Download </a> </p>
+			<div class = "columns small-10 small-centered">
+				<h1>Finances</h1>
+				<h2>Financial Statements</h2>
+					<p>2013 <a href="/web/viewer.html?file=%2F2013statement.pdf" class="button"> Preview </a> <a href="./2013statement.pdf" class="button"> Download</a></p>
+				<h2>Audits</h2>
+				<p> <span class="audit"> Audit 1 </span> <a href="/web/viewer.html?file=%2Faudit1.pdf" class="button">  Preview </a> <a href="./audit1.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 2 </span> <a href="/web/viewer.html?file=%2Faudit2.pdf" class="button">  Preview </a> <a href="./audit2.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 3 </span> <a href="/web/viewer.html?file=%2Faudit3.pdf" class="button">  Preview </a> <a href="./audit3.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 4 </span> <a href="/web/viewer.html?file=%2Faudit4.pdf" class="button">  Preview </a> <a href="./audit4.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 5 </span> <a href="/web/viewer.html?file=%2Faudit5.pdf" class="button">  Preview </a> <a href="./audit5.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 6 </span> <a href="/web/viewer.html?file=%2Faudit6.pdf" class="button">  Preview </a> <a href="./audit6.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 7 </span> <a href="/web/viewer.html?file=%2Faudit7.pdf" class="button">  Preview </a> <a href="./audit7.pdf" class="button"> Download </a> </p>
+				<p> <span class="audit"> Audit 8 </span> <a href="/web/viewer.html?file=%2Faudit8.pdf" class="button">  Preview </a> <a href="./audit8.pdf" class="button"> Download </a> </p>
+				</div>
 		</div>
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>

@@ -8,11 +8,23 @@ p {
     margin: 1rem;
 }
 
-audit {
-    font-family: Verdana,Sans-Serif;
-    font-size: 2rem;
+ul {
+	list-style-type: none;
+}
+
+.audit {
+    font-size: 1.6rem;
 }
 
 .imageHolder {
     margin: 1rem;
+}
+
+.button {
+	margin: 1rem;
+}
+
+.carouselImage {
+	height: 280px;
+	width: 377px;
 }

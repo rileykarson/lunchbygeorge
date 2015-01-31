@@ -23,9 +23,9 @@
 		<div class = "row">
 			<div class = "columns small-12">
 				<div class="your-class">
-					<div><img src="img/meals.png"/></div>
-					<div><img src="img/garden.jpg"/></div>
-					<div><img src="img/meals2.png"/></div>
+					<div class = "carouselImage"><img src="img/meals.png"/></div>
+					<div class = "carouselImage"><img src="img/garden.jpg"/></div>
+					<div class = "carouselImage"><img src="img/meals2.png"/></div>
 				</div>
 			</div>
 		</div>

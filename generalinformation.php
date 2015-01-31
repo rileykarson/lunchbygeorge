@@ -21,12 +21,12 @@
 		<div class = "row">
 			<div class = "columns small-12 medium-6">
 				<h1>When We Are Open</h1>
-					<p>
-						Monday to Friday 9:00-11:30am
-						9 a.m. and onwards: Coffee and goodies
-						10 a.m. Soup
-						11 a.m. Hot Nutritious Meal
-					</p>
+					<ul>
+						<li>Monday to Friday 9:00-11:30am</li>
+						<li>9 a.m. and onwards: Coffee and goodies</li>
+						<li>10 a.m. Soup</li>
+						<li>11 a.m. Hot Nutritious Meal</li>
+					</ul>
 			</div>
 			<div class = "columns small-12 medium-6">
 				<img src = "./img/infoimage.jpg">
@@ -36,10 +36,10 @@
 			<div class = "columns small-12 medium-6">
 				<h1>Board of Directors</h1>
 				<p>
-					Co-Chairs: Aveleigh Kyle and Peter Gower
-					Secretary: Tanis Fairley
-					Treasurer: Don Large
-					Members: Juanita Barrett, George Boland, Theo Bruce, Gill Cleghorn, David Gordon, Jim McCartney and Linda Morgan.
+					<li>Co-Chairs: Aveleigh Kyle and Peter Gower</li>
+					<li>Secretary: Tanis Fairley</li>
+					<li>Treasurer: Don Large</li>
+					<li>Members: Juanita Barrett, George Boland, Theo Bruce, Gill Cleghorn, David Gordon, Jim McCartney and Linda Morgan.</li>
 				</p>
 			</div>
 			<div class = "columns small-12 medium-6">
