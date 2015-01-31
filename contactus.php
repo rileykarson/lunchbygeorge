@@ -73,6 +73,7 @@
 						</label>
 					</div>
 				</div>
+				<input type="submit" name="submit1" VALUE="submit"/>
 			</form>
 			</div>
 				<div class = "columns small-6">
