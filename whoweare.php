@@ -29,13 +29,7 @@
 			</div>
 			<div class = "columns small-12 medium-6">
 				<div class = "imageHolder">
-					<img src = "./img/infoimage.jpg">
-				</div>
-				<div class = "imageHolder">
-					<img src = "./img/infoimage.jpg">
-				</div>
-				<div class = "imageHolder">
-					<img src = "./img/infoimage.jpg">
+					<img src = "./img/jenny.jpg">
 				</div>
 			</div>
 		</div>

@@ -22,8 +22,6 @@
 			<div class = "columns small-12">
 				<h1>Supporting Lunch by George</h1>
 			</div>
-		</div>
-		<div class = "row">
 			<div class = "columns small-12">
 				<p>
 					Outreach St. George's Kingston (OSGK) is a registered charity (#872941497RR0001). It is now easier than ever to give to Lunch By George through online donations to OSGK.
