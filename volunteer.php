@@ -23,9 +23,9 @@
 		<div class = "row">
 			<div class = "columns small-12">
 				<div class="your-class">
-					<div class = "carouselImage"><img src="img/meals.png"/></div>
-					<div class = "carouselImage"><img src="img/garden.jpg"/></div>
-					<div class = "carouselImage"><img src="img/meals2.png"/></div>
+					<div><img class = "carouselImage" src="img/meals.png"/></div>
+					<div><img class = "carouselImage" src="img/garden.jpg"/></div>
+					<div><img class = "carouselImage" src="img/meals2.png"/></div>
 				</div>
 			</div>
 		</div>
@@ -55,8 +55,9 @@
 		<script type="text/javascript">
 		    $(document).ready(function(){
 		      $('.your-class').slick({
-		      		arrows: true,
 		      		dots: true,
+		      		slidesToShow: 3,
+		      		slidesToScroll: 1,
 		      		infinite: true,
 					autoplay: true,
 					autoplaySpeed: 2000
