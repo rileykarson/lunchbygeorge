@@ -28,3 +28,11 @@ ul {
 	height: 280px;
 	width: 377px;
 }
+
+.your-class {
+	margin-top: 2rem;
+}
+
+.centeredText {
+	text-align: center;
+}

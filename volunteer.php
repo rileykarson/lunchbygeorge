@@ -29,12 +29,12 @@
 				</div>
 			</div>
 		</div>
-		<div class = "row">
+		<div class = "row centeredText">
 			<div class = "columns small-12">
 				<h1>Volunteer!</h1>
 			</div>
 		</div>
-		<div class = "row">
+		<div class = "row centeredText">
 			<div class = "columns small-12">
 				<p> Explore different volunteering opportunities to help the Kingston community </p>
 				<ul>

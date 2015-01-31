@@ -44,18 +44,15 @@
 			</div>
 			<div class = "columns small-12 medium-6">
 				<h1>How to contact us:</h1>
-				<p>
-					Lunch By George
-					129 Wellington Street
-					P.O. Box 475
-					Kingston, Ontario, K7L 4W5
-
-					Telephone: 613 548 4617 ext. 30
-
-					Fax: 613 548 7466
-
-					Email: info@osgk.org
-				</p>
+				<ul>
+					<li>Lunch By George</li>
+					<li>129 Wellington Street</li>
+					<li>P.O. Box 475</li>
+					<li>Kingston, Ontario, K7L 4W5</li>
+					<li>Telephone: 613 548 4617 ext. 30</li>
+					<li>Fax: 613 548 7466</li>
+					<li>Email: info@osgk.org</li>
+				</ul>
 			</div>
 		</div>
 		<div class = "row">
@@ -64,15 +61,15 @@
 			</div>
 			<div class = "columns small-12 medium-6">
 				<h1>Where?</h1>
-				<p>
-					St. George's Hall
-					129 Wellington St.
-					(corner of Johnson)
-					Lunch By George
-					129 Wellington Street
-					P.O. Box 475
-					Kingston, Ontario, K7L 4W5
-    			</p>
+				<ul>
+					<li>St. George's Hall</li>
+					<li>129 Wellington St.</li>
+					<li>(corner of Johnson)</li>
+					<li>Lunch By George</li>
+					<li>129 Wellington Street</li>
+					<li>P.O. Box 475</li>
+					<li>Kingston, Ontario, K7L 4W5</li>
+    			</ul>
 			</div>
 		</div>
 		

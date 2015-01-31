@@ -45,7 +45,7 @@
 			</div>
 			<div class = "row">
 				<div class = "columns small-12">
-					<img src="./img/infoimage.jpg"/>
+					<img src="./img/Brochure1.jpg"/>
 				</div>
 			</div>
 			<div class="row">
