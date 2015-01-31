@@ -36,7 +36,7 @@
 									</div>
 								</div>
 								<div class='row'>
-									<div class = 'columns small-10 small-centered'>
+									<div class = 'columns small-12'>
 										<p>
 											$content
 										</p>
