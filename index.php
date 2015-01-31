@@ -15,9 +15,15 @@
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
 	<body>
-		<div class = "navbar">
-			<img src = "/banner.jpg" alt="Lunch By George">
-		</div>
+		<nav class = "top-bar">
+			
+		</nav>
+		<div class= "row">
+			<div "columns small-12">
+				<img src = "./img/header.jpg" alt="Lunch By George">
+			</div>
+		</dow>
+
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
