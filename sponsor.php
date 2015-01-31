@@ -19,21 +19,24 @@
 			include "navbar.html"
 		?>
 		
-		<h2> Sponsor Lunch by George</h2>
+		<div class="row">
+			<div class="columns small-12 medium-6">
+				<h2> Sponsor Lunch by George</h2>
 
-		<h3> Support the Kingston community!</h3>
+				<h3> Support the Kingston community!</h3>
 
-			<ul>
-				<li>Help us grow the vegetables we need for our meals</li>
-				<li>Contribute to our positive impact on the Kingston community</li>
-			</ul>
+					<ul>
+						<li>Help us grow the vegetables we need for our meals</li>
+						<li>Contribute to our positive impact on the Kingston community</li>
+					</ul>
 
-		<h3> Our current sponsors</h3>
+				<h3> Our current sponsors</h3>
 
-		<img src="img/sponsors.png"/>
+				<img src="img/sponsors.png"/>
 
-		<p> To become a sponsor, <a href="./contactus.php">contact us</a>!
-
+				<p> To become a sponsor, <a href="./contactus.php">contact us</a>!
+			</div>
+		</div>
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>

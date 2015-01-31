@@ -35,12 +35,12 @@
 		<div class = "row">
 			<div class = "columns small-12 medium-6">
 				<h1>Board of Directors</h1>
-				<p>
+				<ul>
 					<li>Co-Chairs: Aveleigh Kyle and Peter Gower</li>
 					<li>Secretary: Tanis Fairley</li>
 					<li>Treasurer: Don Large</li>
 					<li>Members: Juanita Barrett, George Boland, Theo Bruce, Gill Cleghorn, David Gordon, Jim McCartney and Linda Morgan.</li>
-				</p>
+				</ul>
 			</div>
 			<div class = "columns small-12 medium-6">
 				<h1>How to contact us:</h1>
