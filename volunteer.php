@@ -22,6 +22,15 @@
 		?>
 		<div class = "row">
 			<div class = "columns small-12">
+				<div class="your-class">
+					<div><img src="img/meals.png"/></div>
+					<div><img src="img/garden.jpg"/></div>
+					<div><img src="img/meals2.png"/></div>
+				</div>
+			</div>
+		</div>
+		<div class = "row">
+			<div class = "columns small-12">
 				<h1>Volunteer!</h1>
 			</div>
 		</div>
@@ -38,15 +47,6 @@
 				<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
 			</div>
 		</div>
-		<div class = "row">
-			<div class = "columns small-12">
-				<div class="your-class">
-					<div><img src="img/meals.png"/></div>
-					<div><img src="img/garden.jpg"/></div>
-					<div><img src="img/meals2.png"/></div>
-				</div>
-			</div>
-		</div>
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
@@ -54,7 +54,13 @@
 		<script type="text/javascript" src="slick/slick.min.js"></script>
 		<script type="text/javascript">
 		    $(document).ready(function(){
-		      $('.your-class').slick();
+		      $('.your-class').slick({
+		      		arrows: true,
+		      		dots: true,
+		      		infinite: true,
+					autoplay: true,
+					autoplaySpeed: 2000
+				});
 		    });
 		  </script>
 	</body>
