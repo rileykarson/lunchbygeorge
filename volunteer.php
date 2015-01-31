@@ -21,9 +21,18 @@
 		
 		<h1>Volunteer!</h1>
 
-		
+		<p> Explore different volunteering opportunities to help the Kingston community </p>
+		<ul>
+			<li>Serve meals to the Kingston community</li>
+			<li>Help us grow our vegetables in our very own garden</li>
+			<li>Get involved in administrative functioning</li>
+		</ul>
 
+		<img src="img/meals.png"/>
+		<img src="img/garden.jpg"/>
+		<img src="img/meals2.png"/>
 
+		<p>To volunteer, head to the <a href="./contactus.php">Contact us</a> webpage!</p>
 
 	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
