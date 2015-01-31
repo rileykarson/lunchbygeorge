@@ -8,6 +8,10 @@ p {
     margin: 1rem;
 }
 
+audit {
+    font-family: Verdana,Sans-Serif;
+    font-size: 2rem;
+}
 
 .imageHolder {
     margin: 1rem;
