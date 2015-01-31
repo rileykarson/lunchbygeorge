@@ -51,6 +51,7 @@
 			</div>
 			<div class = "columns small-12">
 				<img src="./img/door.jpg"/>
+			</div>
 		</div>
 		
 
