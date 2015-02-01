@@ -41,7 +41,7 @@
           </div>
           <div class="large-6 columns">
             <label>Phone
-              <input type="tel" placeholder="Required" name="number"/>
+              <input type="tel" name="number"/>
             </label>
           </div>
         </div>
@@ -84,5 +84,8 @@
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
     <script src="js/index.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/foundation.topbar.js"></script>
+    <script>$(document).foundation();</script>
   </body>
 </html>
