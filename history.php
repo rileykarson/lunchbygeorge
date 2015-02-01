@@ -44,17 +44,22 @@
 					Lunch By George also receives food donations from church members, restaurants, community groups and Partners in Mission Food Bank. Because our numbers fluctuate, there are times when the program becomes desperately short of certain foods. If you see or hear of a request for tinned fruit, juice, sugar or coffee, it is because the need is critical at that time!
 					</p>
 				</div>
-			<div class = "columns small-6">
+			<div class = "columns small-6 centeredText">
+				<div class = "whitespace"></div>
 				<div class = "whitespace"></div>
 				<img src="./img/door.jpg"/>
+				<div class = "whitespace"></div>
 				<img src="./img/historybrochure.jpg"/>
 			</div>
 		</div>
 		
 
-	 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
 		<script src="js/index.js"></script>
+		<script src="js/foundation.min.js"></script>
+		<script src="js/foundation.topbar.js"></script>
+		<script>$(document).foundation();</script>
 	</body>
 </html>
