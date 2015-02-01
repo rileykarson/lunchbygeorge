@@ -26,7 +26,7 @@
 				<p>
 					Outreach St. George's Kingston (OSGK) is a registered charity (#872941497RR0001). It is now easier than ever to give to Lunch By George through online donations to OSGK.
 				</p><p>
-					We are registered with Canadahelps.org, a non-profit, secure online donation site that serves many Canadian charities. Just click below and you will go directly to the page where you can donate to Outreach St. George's Kingston, which sponsors Lunch By George.
+					We are registered with <a href="http://Canadahelps.org">Canadahelps.org</a>, a non-profit, secure online donation site that serves many Canadian charities. Just click below and you will go directly to the page where you can donate to Outreach St. George's Kingston, which sponsors Lunch By George.
 				</p><p>
 					You will receive an immediate tax receipt via email and we will receive 100% of your donation (minus credit card fees).
 				</p><p>

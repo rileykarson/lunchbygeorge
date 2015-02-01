@@ -51,7 +51,7 @@
 					<li>Kingston, Ontario, K7L 4W5</li>
 					<li>Telephone: 613 548 4617 ext. 30</li>
 					<li>Fax: 613 548 7466</li>
-					<li>Email: info@osgk.org</li>
+					<li>Email: <a href="mailto:info@osgk.org">info@osgk.org</a></li>
 				</ul>
 			</div>
 		</div>
