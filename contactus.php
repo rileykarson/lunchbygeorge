@@ -73,7 +73,7 @@
 						</label>
 					</div>
 				</div>
-				<input type="submit" name="submit1" VALUE="submit"/>
+				<input type="submit" name="submit1" VALUE="submit" class="button round small"/>
 			</form>
 			</div>
 				<div class = "columns small-6">
