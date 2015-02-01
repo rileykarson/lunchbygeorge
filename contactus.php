@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="large-6 columns">
+          <div class="large-12 columns">
             <label>Are you already involved with "Lunch with George"?</label>
             <input type="radio" name="lunchWithGeorge" value="Yes" id="involvedYes"><label for="Yes">Yes</label>
             <input type="radio" name="lunchwithGeorge" value="No" id="involvedNo"><label for="No">No</label>
@@ -73,7 +73,7 @@
             </label>
           </div>
         </div>
-        <input type="submit" value="submit"/>
+        <input type="submit" value="submit" class="button round small"/>
       </form>
       </div>
         <div class = "columns small-6">
