@@ -43,7 +43,8 @@ ul {
 
 .headerImage{
 	background-color: #005AAf;
-	margin: 10rem;
+	margin-top: 10rem;
+	margin-bottom:10rem;
 	width: 60rem;
 }
 
