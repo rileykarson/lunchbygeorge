@@ -22,7 +22,7 @@
 
 <?php
 if(isset($_POST['email'])) {
-    $email_to = "raymond_chung2@hotmail.com";
+    $email_to = "EMAIL HERE";
     $email_subject = "A Question for You!";
  
     function died($error) {
